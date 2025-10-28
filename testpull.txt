@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Plik testowy do sprawdzenia git pull1111111" 
+=======
+"Plik testowy do sprawdzenia git pull2222222" 
+>>>>>>> d986f966af04e556d0095cafac1f370ebc4ecc08
